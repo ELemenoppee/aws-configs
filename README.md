@@ -47,3 +47,7 @@ Follow this guide to learn how to change the instance type of your Amazon EC2 in
 ### [How to Delete an Amazon EC2 Instance: A Step-by-Step Guide](delete-ec2-instance.md)
 
 This guide provides detailed instructions on how to safely terminate and delete an Amazon EC2 instance, including steps to ensure data is backed up and resources are properly released.
+
+### [Creating an AWS EBS Snapshot](ebs-snapshot.md)
+
+Learn how to create snapshots of your Amazon EBS volumes to ensure data durability and facilitate easy backups, allowing you to capture the state of your volumes at a specific point in time.
