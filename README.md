@@ -1,18 +1,20 @@
 # AWS Installation Guides and Configurations
 
+![alt text](images/image-45.png)
+
 Welcome to the AWS Installation Guides and Configurations repository! Here you will find comprehensive guides and configurations to help you set up and manage various AWS services and resources.
 
-## Table of Contents
+## Table of Contents 🪁
 
 - [Introduction](#introduction)
 - [Getting Started](#getting-started)
 - [Guides](#guides)
 
-## Introduction
+## Introduction ⛳️
 
 This repository aims to provide step-by-step instructions, best practices, and example configurations for deploying and managing AWS services. Whether you're new to AWS or looking to optimize your existing setup, you'll find useful information and guides here.
 
-## Getting Started
+## Getting Started 🎲
 
 To get started, make sure you have access to an AWS account. If you don't have one yet, you can sign up for AWS at [aws.amazon.com](https://aws.amazon.com/) and create a free-tier account for exploration and testing.
 
@@ -24,7 +26,7 @@ Before diving into the guides, ensure you have the following:
 - Basic understanding of cloud computing concepts.
 - Familiarity with using the AWS Management Console and CLI (Command Line Interface).
 
-## Guides
+## Guides 🎨
 
 ### [How to Create an Amazon EC2 Instance: A Step-by-Step Guide](create-ec2-instance.md)
 
