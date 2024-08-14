@@ -51,3 +51,7 @@ This guide provides detailed instructions on how to safely terminate and delete 
 ### [Creating an AWS EBS Snapshot](ebs-snapshot.md)
 
 Learn how to create snapshots of your Amazon EBS volumes to ensure data durability and facilitate easy backups, allowing you to capture the state of your volumes at a specific point in time.
+
+### [Creating an EC2 Key Pair and Adding a Private Key to an EC2 Instance](create-key-pair.md)
+
+Discover how to generate an EC2 key pair for secure access to your Amazon EC2 instances and learn the steps to add your private key to an EC2 instance. This guide will walk you through the process of setting up secure SSH access to your instances, ensuring that you can manage them effectively while keeping your connections safe.
