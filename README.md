@@ -55,3 +55,7 @@ Learn how to create snapshots of your Amazon EBS volumes to ensure data durabili
 ### [Creating an EC2 Key Pair and Adding a Private Key to an EC2 Instance](create-key-pair.md)
 
 Discover how to generate an EC2 key pair for secure access to your Amazon EC2 instances and learn the steps to add your private key to an EC2 instance. This guide will walk you through the process of setting up secure SSH access to your instances, ensuring that you can manage them effectively while keeping your connections safe.
+
+### [Create EC2 Instance User](create-ec2-instance-user.md)
+
+Learn how to create a new user on your Amazon EC2 instance, giving them the appropriate permissions and access for managing resources. This guide will walk you through the steps required to securely set up a new user on your EC2 instance, ensuring proper user management and secure access to the instance.
