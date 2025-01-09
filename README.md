@@ -59,3 +59,9 @@ Discover how to generate an EC2 key pair for secure access to your Amazon EC2 in
 ### [Create EC2 Instance User](create-ec2-instance-user.md)
 
 Learn how to create a new user on your Amazon EC2 instance, giving them the appropriate permissions and access for managing resources. This guide will walk you through the steps required to securely set up a new user on your EC2 instance, ensuring proper user management and secure access to the instance.
+
+### [Mount S3 Bucket on EC2 Instances using S3FS](mount-s3-bucket-on-ec2-instance-using-s3fs.md)
+
+Learn how to mount an Amazon S3 bucket on your EC2 instances using S3FS. This guide provides step-by-step instructions to configure S3FS, enabling seamless access to your S3 bucket as if it were a local filesystem. Follow this guide to simplify data management and ensure efficient storage integration between your EC2 instances and S3.
+
+
